@@ -1,0 +1,24 @@
+html {
+    text-align: center;
+    background-color: black;
+}
+.images{
+    display:flex;
+    justify-content: space-around;
+    padding:20px;
+    border:20px solid red;
+}
+img{
+  width:350px;
+    height:350px; 
+   
+}
+.donate{
+    color:red;
+}
+.evan{
+    color: white;
+}
+.reason{
+    color:white;
+}
